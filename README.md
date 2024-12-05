@@ -3,8 +3,9 @@
 ## Installation
 
 To install the tool, run the following commands:
-
-`termux-setup-storage`
+```
+termux-setup-storage
+```
 `apt update && apt upgrade -y`
 `apt install python -y`
 
