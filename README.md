@@ -11,7 +11,7 @@ To install this tool simply copy and paste this code in termux.
 git clone https://github.com/Errorking404/WIFI-HACK.git
 cd WIFI-HACK
 bash run.sh
-python wifihack.py
+python Wifihack.py
 ```
 
 **DISCLAIMER:**
