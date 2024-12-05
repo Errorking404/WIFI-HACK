@@ -1,14 +1,17 @@
 **WIFI hack tool:**
+
 A wifi hacking script to crack password of wifi via
 brute force. 
 Make sure you have storage permission to store passwords.
 
 **Installation:**
+
 To install this tool simply copy and paste this code in termux.
 ```
 git clone https://github.com/Errorking404/WIFI-HACK.git
 cd WIFI-HACK
 bash run.sh
+python wifihack.py
 ```
 
 **DISCLAIMER:**
